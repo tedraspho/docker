@@ -1,9 +1,9 @@
-name: python-dckr
+name: c1
 
 on:
   push:
     branches:
-      - "python-docker"
+      - "main"
 
 jobs:
    build:
